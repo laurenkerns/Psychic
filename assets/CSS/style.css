@@ -1,0 +1,39 @@
+body {
+   margin: 10px;
+   border: dotted 2px 
+
+}
+
+h1 {
+   font-family: cursive;
+}
+
+.col-md-12 {
+   background-color: lightskyblue;
+   text-align: center;
+}
+
+#wins {
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 30px;
+   color:gold;
+}
+
+#losses {
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: 20px;
+   color: darkblue;
+}
+
+#guessesLeft {
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 20px;
+   color: red;
+   font-weight: bolder;
+}
+
+#guesses {
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 20px;
+   color: green;
+}
